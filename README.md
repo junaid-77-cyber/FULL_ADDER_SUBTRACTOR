@@ -1,4 +1,6 @@
-# FULL_ADDER_SUBTRACTOR
+### NAME: S JUNAID SARDAR
+### REG NO. 24003934
+### EXP NO. 4 FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -38,6 +40,8 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![exp 4  (4)](https://github.com/user-attachments/assets/228e899c-ebab-418d-941e-d9ce884ceea0)
+
 **Procedure**
 
 Write the detailed procedure here
@@ -47,9 +51,15 @@ Write the detailed procedure here
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
+![exp 4  (1)](https://github.com/user-attachments/assets/0c5a8f69-e3db-45c0-9773-4e0b268e3ac4)
+
 **RTL Schematic**
 
+![exp 4  (2)](https://github.com/user-attachments/assets/c2f08d98-11fe-442b-bdc6-00442683ad28)
+
 **Output Timing Waveform**
+
+![exp 4  (3)](https://github.com/user-attachments/assets/901d8349-8b99-4045-b7b6-13a0a8d82a0d)
 
 **Result:**
 
